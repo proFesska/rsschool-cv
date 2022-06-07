@@ -9,7 +9,7 @@
 - **Country:** Russia
 - **City:** Penza
 - **E-mail:** alex.profess.fil4@mail.ru
-- **Github:** [proFesska] (https://github.com/proFesska)
+- **Github:** [proFesska](https://github.com/proFesska)
 - **Discord:** proFess#5465
 
 ### About me
@@ -67,9 +67,9 @@ function fizzbuzz(n)
 
 - **University:** Penza State University : lawyer
 - **Course:**
-  - FreeCodeCamp
-  - WebReference
-  - Udemy
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
+  - [WebReference](https://webref.ru/)
+  - [Udemy](https://www.udemy.com/)
 
 ### English
 
