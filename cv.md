@@ -1,10 +1,10 @@
 # Alex Filyukov
 
-====
+---
 
 ### Contacts
 
-====
+---
 
 - **Country:** Russia
 - **City:** Penza
@@ -14,7 +14,7 @@
 
 ### About me
 
-====
+---
 
 I really like the IT field and I want to become a high-level developer.
 
@@ -26,7 +26,7 @@ And I don't plan to stop there.
 
 ### Skills
 
-====
+---
 
 - HTML(basic)
 - CSS(basic)
@@ -35,7 +35,7 @@ And I don't plan to stop there.
 
 ### Code Example
 
-====
+---
 
 ```
 function fizzbuzz(n)
@@ -57,12 +57,13 @@ function fizzbuzz(n)
 
 ### Experience
 
-====
+---
+
 1 year web-technology study
 
 ### Education
 
-====
+---
 
 - **University:** Penza State University : lawyer
 - **Course:**
@@ -72,5 +73,6 @@ function fizzbuzz(n)
 
 ### English
 
-====
+---
+
 A1 - A2 (in the learning process)
